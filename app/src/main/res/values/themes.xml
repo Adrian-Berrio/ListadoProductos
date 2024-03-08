@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ListadoProductos" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="android:fontFamily">@font/principal</item>
+        <item name="colorPrimaryDark">@color/verde</item>
+    </style>
+
+    <style name="Theme.ListadoProductos" parent="Base.Theme.ListadoProductos" />
+</resources>

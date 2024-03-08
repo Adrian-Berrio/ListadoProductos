@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ListadoProductos</string>
+    <string name="productos_tittle">Productos</string>
+    <string name="nativo_name">Nativo</string>
+    <string name="nativo_tipo">Fungicida</string>
+    <string name="capsialil_name">Capsialil</string>
+    <string name="capsialil_tipo">Insecticida</string>
+    <string name="candonga_name">Candonga</string>
+    <string name="candonga_tipo">Insecticida</string>
+    <string name="exalt_name">Exalt</string>
+    <string name="exalt_tipo">Insecticida</string>
+    <string name="minotauro_name">Minotauro</string>
+    <string name="minotauro_tipo">Fungicida</string>
+</resources>
